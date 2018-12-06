@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 兔先森的博客 | BY Blog
+title: Shane Blog
+SEOTitle: 兔先森の博客 | Shane Blog
 header-img: img/post-bg-desk.jpg
 email: jimsade@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 兔先森的博客, 兔先森, Duzi, iOS, Apple, iPhone"
+keyword: "Shane, Shane Blog, 兔先森の博客, 兔先森, Duzi, 爬虫, Shell, gitlab"
 url: "http://remoond.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/remoond/remoond.github.io.git" # you code repository
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: papapa.ink               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "廖雪峰的官方网站",
+        href: "https://www.liaoxuefeng.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "bilibili",
+        href: "https://www.bilibili.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
